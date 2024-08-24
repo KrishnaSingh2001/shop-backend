@@ -18,8 +18,5 @@
     "mongoose": "^8.5.2",
     "react-stripe-checkout": "^2.6.3",
     "stripe": "^16.7.0"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.4"
   }
 }
